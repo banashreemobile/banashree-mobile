@@ -573,10 +573,10 @@ function initBottomNav() {
         <div class="nav-item" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
             <span>⬆️</span><span>Top</span>
         </div>
-        <a href="tel:+917609074640" class="nav-item">
+        <a href="tel:+919777966677" class="nav-item">
             <span>📞</span><span>Call</span>
         </a>
-        <a href="https://wa.me/917609074640" class="nav-item" target="_blank">
+        <a href="https://wa.me/919777966677" class="nav-item" target="_blank">
             <span>💬</span><span>WhatsApp</span>
         </a>
     `;
@@ -1312,7 +1312,7 @@ async function loadProductDetail() {
     }
     
     currentProduct = product;
-    document.title = `${product.name} - Subho Mobile Shop`;
+    document.title = `${product.name} - Banashree Mobile`;
     
     // Set default selections
     if (product.colors && product.colors.length > 0) {
@@ -1438,8 +1438,8 @@ function renderProductDetail(product) {
             <p class="detail-availability">✅ Available at our shop</p>
             
             <div class="cta-buttons">
-                <a href="tel:+917609074640" class="btn-call">📞 Call Now</a>
-                <a href="https://wa.me/917609074640?text=Hi, I'm interested in ${product.name}" class="btn-whatsapp" target="_blank">💬 WhatsApp</a>
+                <a href="tel:+919777966677" class="btn-call">📞 Call Now</a>
+                <a href="https://wa.me/919777966677?text=Hi, I'm interested in ${product.name}" class="btn-whatsapp" target="_blank">💬 WhatsApp</a>
             </div>
             
             <div class="compare-checkbox">
