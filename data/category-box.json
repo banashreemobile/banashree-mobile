@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "name": "",
+            "image": "assets/images/categories/mobiles.png",
+            "page": "products.html",
+            "icon": "📱",
+            "color": "#3b82f6"
+        },
+        
+        
+        
+        {
+            "name": "Smart Watches",
+            "image": "assets/images/categories/watches.png",
+            "page": "watches.html",
+            "icon": "⌚",
+            "color": "#ec4899"
+        },
+        {
+            "name": "Laptops",
+            "image": "assets/images/categories/laptops.png",
+            "page": "laptops.html",
+            "icon": "💻",
+            "color": "#14b8a6"
+        },
+        {
+            "name": "Tablets",
+            "image": "assets/images/categories/tablets.png",
+            "page": "tablets.html",
+            "icon": "📟",
+            "color": "#f97316"
+        }
+    ]
+}
